@@ -1,0 +1,18 @@
+
+        
+       
+       #header, #score {
+         width: 306px;
+       }
+     
+      
+       .bubble {
+         position: absolute;
+         border-radius: 100%;
+         
+       }
+       .game{
+        margin: 50px auto;
+        height: 100px;
+        width: 100px;
+       }
